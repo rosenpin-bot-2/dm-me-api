@@ -9,6 +9,11 @@
                         "packageName": "ir.ilmili.telegraph",
                         "type": "vnd.ir.ilmili.telegraph.android.profile",
                         "normalize": false
+                },
+                {
+                        "packageName": "com.tencent.mm",
+                        "type": "vnd.com.tencent.mm.chatting.profile",
+                        "normalize": true
                 }
 
         ]
