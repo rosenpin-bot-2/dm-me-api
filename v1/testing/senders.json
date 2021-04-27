@@ -20,6 +20,7 @@
                         "type": "vnd.org.telegram.messenger.android.profile",
                         "normalize": true
                 },
+                {
                         "packageName": "org.telegram.messenger.beta",
                         "type": "vnd.org.telegram.messenger.beta.android.profile",
                         "normalize": true
