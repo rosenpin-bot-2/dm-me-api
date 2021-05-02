@@ -17,7 +17,7 @@
                 },
                 {
                         "packageName": "org.telegram.messenger.web",
-                        "type": "vnd.org.telegram.messenger.android.profile",
+                        "type": "vnd.org.telegram.messenger.web.android.profile",
                         "normalize": true
                 },
                 {
